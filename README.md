@@ -19,11 +19,10 @@
 ```json 
 {
   "name": "Sujaya Nimneth",
-  "location": "Colombo, Sri Lanka",
   "education": {
-    "degree": "BSc Computer Science (Level 5)",
+    "degree": "BSc Computer Science ",
     "university": "University of Westminster",
-    "foundation": "IIT Colombo"
+   
   },
   "technical_focus": [
     "Machine Learning",
