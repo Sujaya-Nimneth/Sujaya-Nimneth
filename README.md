@@ -48,8 +48,3 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-<h3>🐍 Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sujaya-nimneth/sujaya-nimneth/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
