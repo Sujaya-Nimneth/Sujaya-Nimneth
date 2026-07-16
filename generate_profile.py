@@ -32,7 +32,7 @@ def load_portrait():
 INFO = [
     ("__header__", "sujaya nimneth", ""),
     ("__rule__", "", ""),
-    ("Role",     "ML Enthusiast · Cybersecurity Focus · Full-Stack Developer", "val"),
+    ("Role",     "ML Enthusiast · Cybersecurity · Full-Stack Developer", "val"),
     ("Edu",      "BSc Computer Science · University of Westminster", "val"),
     ("Focus",    "Machine Learning · Cybersecurity · Home Labs", "accent"),
     ("__blank__", "", ""),
@@ -47,7 +47,7 @@ INFO = [
     ("HomeLab",   "Setting up labs with Active Directory & Docker", "warn"),
     ("__blank__", "", ""),
     ("__section__", "~/hobbies", ""),
-    ("Gaming",    "Optimizing simulation cities & surviving dystopian worlds", "val"),
+    ("Gaming",    "Optimizing cities & surviving dystopian worlds", "val"),
     ("__stats__", "", ""),
     ("__blank__", "", ""),
     ("__section__", "~/reach", ""),
@@ -74,8 +74,8 @@ W, H = 980, 620
 ART_X, ART_Y = 30, 86
 ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
 ART_LH = ART_CW * 1.72
-INFO_X, INFO_Y, INFO_LH = 448, 92, 17.5
-VAL_X = INFO_X + 92
+INFO_X, INFO_Y, INFO_LH = 380, 92, 17.5
+VAL_X = INFO_X + 85
 
 
 # ----------------------------------------------------------------------------
