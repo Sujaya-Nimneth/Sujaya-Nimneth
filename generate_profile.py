@@ -48,7 +48,6 @@ INFO = [
     ("__blank__", "", ""),
     ("__section__", "~/hobbies", ""),
     ("Gaming",    "Optimizing cities & surviving dystopian worlds", "val"),
-    ("__stats__", "", ""),
     ("__blank__", "", ""),
     ("__section__", "~/reach", ""),
     ("Web",      "sujaya.me", "accent"),
