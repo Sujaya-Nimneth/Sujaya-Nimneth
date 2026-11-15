@@ -32,25 +32,30 @@ def load_portrait():
 INFO = [
     ("__header__", "sujaya nimneth", ""),
     ("__rule__", "", ""),
-    ("Role",     "ML Enthusiast · Cybersecurity · Full-Stack Developer", "val"),
-    ("Edu",      "BSc Computer Science · University of Westminster", "val"),
-    ("Focus",    "Machine Learning · Cybersecurity · Home Labs", "accent"),
+    ("Role",     "Full-Stack Software Engineer · AI/ML Engineer", "val"),
+    ("Edu",      "BSc (Hons) CS · IIT / Univ. of Westminster", "val"),
+    ("Focus",    "Local LLM Inference · Full-Stack · Mobile & IoT", "accent"),
     ("__blank__", "", ""),
     ("__section__", "~/stack", ""),
-    ("Lang",     "Python · TypeScript · JavaScript · SQL · HTML/CSS", "val"),
-    ("Web",      "React · Next.js · Node.js", "val"),
-    ("Tools",    "Docker · Linux · Active Directory · Git", "val"),
+    ("Lang",     "TypeScript · Python · Dart · JavaScript · Java · PHP · SQL", "val"),
+    ("AI/ML",    "Unsloth · QLoRA · Triton · GGUF · vLLM · SGLang · llama.cpp", "val"),
+    ("Web/App",  "React 19 · Next.js 16 · TanStack · Flutter · React Native", "val"),
+    ("Backend",  "Node.js · PostgreSQL · Supabase · Firebase · SQLite · Zod", "val"),
+    ("DevOps",   "Docker · Cloudflare · Vercel Edge · GitHub Actions · Linux", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/projects", ""),
-    ("NeuroSync", "Full-stack mood tracking application", "warn"),
-    ("Oil-Burn",  "Satellite-based monitoring web app", "warn"),
-    ("HomeLab",   "Setting up labs with Active Directory & Docker", "warn"),
+    ("NIM-AI",    "Fine-tuned 30B MoE & 3B QLoRA coding/reasoning LLMs", "warn"),
+    ("NeuroSync", "ADHD focus & mood companion app (Expo / Firebase)", "warn"),
+    ("Spike",     "IoT smart ring BLE telemetry & stress analyzer (Flutter)", "warn"),
+    ("Voxelle",   "Multimodal voice AI assistant with agentic tool calling", "warn"),
+    ("Oil-Burn",  "3D satellite thermal & geospatial monitoring web app", "warn"),
     ("__blank__", "", ""),
     ("__section__", "~/hobbies", ""),
     ("Gaming",    "Optimizing cities & surviving dystopian worlds", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/reach", ""),
     ("Web",      "sujaya.me", "accent"),
+    ("HF",       "huggingface.co/NIM-AI", "accent"),
     ("LinkedIn", "linkedin.com/in/sujaya-nimneth-9280b4254/", "accent"),
 ]
 
@@ -229,7 +234,7 @@ def render(theme_name, colors, stats, ist_now):
         f'<text x="{ART_X}" y="{fy}" class="row" style="animation-delay:{delay+0.1:.2f}s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
-        f'<tspan class="val" dx="8">open to ML / Cybersecurity opportunities</tspan>'
+        f'<tspan class="val" dx="8">open to AI/ML &amp; Full-Stack Software Engineering opportunities</tspan>'
         f'<tspan class="cur" dx="8">█</tspan></text>'
     )
     parts.append(

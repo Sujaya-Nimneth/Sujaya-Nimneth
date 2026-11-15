@@ -91,33 +91,43 @@
 <text x="380" y="92.0" class="hdr row" style="animation-delay:0.35s">sujaya nimneth</text>
 <line x1="380" y1="101.5" x2="940" y2="101.5" stroke="#d0d7de" class="row" style="animation-delay:0.42s"/>
 <text x="380" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
-<text x="465" y="117.5" class="val row" style="animation-delay:0.49s">ML Enthusiast · Cybersecurity · Full-Stack Developer</text>
+<text x="465" y="117.5" class="val row" style="animation-delay:0.49s">Full-Stack Software Engineer · AI/ML Engineer</text>
 <text x="380" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
-<text x="465" y="135.0" class="val row" style="animation-delay:0.56s">BSc Computer Science · University of Westminster</text>
+<text x="465" y="135.0" class="val row" style="animation-delay:0.56s">BSc (Hons) CS · IIT / Univ. of Westminster</text>
 <text x="380" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
-<text x="465" y="152.5" class="acc row" style="animation-delay:0.63s">Machine Learning · Cybersecurity · Home Labs</text>
+<text x="465" y="152.5" class="acc row" style="animation-delay:0.63s">Local LLM Inference · Full-Stack · Mobile &amp; IoT</text>
 <text x="380" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
 <text x="380" y="197.5" class="key row" style="animation-delay:0.77s">Lang</text>
-<text x="465" y="197.5" class="val row" style="animation-delay:0.77s">Python · TypeScript · JavaScript · SQL · HTML/CSS</text>
-<text x="380" y="215.0" class="key row" style="animation-delay:0.84s">Web</text>
-<text x="465" y="215.0" class="val row" style="animation-delay:0.84s">React · Next.js · Node.js</text>
-<text x="380" y="232.5" class="key row" style="animation-delay:0.91s">Tools</text>
-<text x="465" y="232.5" class="val row" style="animation-delay:0.91s">Docker · Linux · Active Directory · Git</text>
-<text x="380" y="260.0" class="sec row" style="animation-delay:0.98s">~/projects</text>
-<text x="380" y="277.5" class="key row" style="animation-delay:1.05s">NeuroSync</text>
-<text x="465" y="277.5" class="wrn row" style="animation-delay:1.05s">Full-stack mood tracking application</text>
-<text x="380" y="295.0" class="key row" style="animation-delay:1.12s">Oil-Burn</text>
-<text x="465" y="295.0" class="wrn row" style="animation-delay:1.12s">Satellite-based monitoring web app</text>
-<text x="380" y="312.5" class="key row" style="animation-delay:1.19s">HomeLab</text>
-<text x="465" y="312.5" class="wrn row" style="animation-delay:1.19s">Setting up labs with Active Directory &amp; Docker</text>
-<text x="380" y="340.0" class="sec row" style="animation-delay:1.26s">~/hobbies</text>
-<text x="380" y="357.5" class="key row" style="animation-delay:1.33s">Gaming</text>
-<text x="465" y="357.5" class="val row" style="animation-delay:1.33s">Optimizing cities &amp; surviving dystopian worlds</text>
-<text x="380" y="385.0" class="sec row" style="animation-delay:1.40s">~/reach</text>
-<text x="380" y="402.5" class="key row" style="animation-delay:1.47s">Web</text>
-<text x="465" y="402.5" class="acc row" style="animation-delay:1.47s">sujaya.me</text>
-<text x="380" y="420.0" class="key row" style="animation-delay:1.54s">LinkedIn</text>
-<text x="465" y="420.0" class="acc row" style="animation-delay:1.54s">linkedin.com/in/sujaya-nimneth-9280b4254/</text>
-<text x="30" y="596" class="row" style="animation-delay:1.71s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to ML / Cybersecurity opportunities</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 15 Nov 2026, 10:04 IST</text>
+<text x="465" y="197.5" class="val row" style="animation-delay:0.77s">TypeScript · Python · Dart · JavaScript · Java · PHP · SQL</text>
+<text x="380" y="215.0" class="key row" style="animation-delay:0.84s">AI/ML</text>
+<text x="465" y="215.0" class="val row" style="animation-delay:0.84s">Unsloth · QLoRA · Triton · GGUF · vLLM · SGLang · llama.cpp</text>
+<text x="380" y="232.5" class="key row" style="animation-delay:0.91s">Web/App</text>
+<text x="465" y="232.5" class="val row" style="animation-delay:0.91s">React 19 · Next.js 16 · TanStack · Flutter · React Native</text>
+<text x="380" y="250.0" class="key row" style="animation-delay:0.98s">Backend</text>
+<text x="465" y="250.0" class="val row" style="animation-delay:0.98s">Node.js · PostgreSQL · Supabase · Firebase · SQLite · Zod</text>
+<text x="380" y="267.5" class="key row" style="animation-delay:1.05s">DevOps</text>
+<text x="465" y="267.5" class="val row" style="animation-delay:1.05s">Docker · Cloudflare · Vercel Edge · GitHub Actions · Linux</text>
+<text x="380" y="295.0" class="sec row" style="animation-delay:1.12s">~/projects</text>
+<text x="380" y="312.5" class="key row" style="animation-delay:1.19s">NIM-AI</text>
+<text x="465" y="312.5" class="wrn row" style="animation-delay:1.19s">Fine-tuned 30B MoE &amp; 3B QLoRA coding/reasoning LLMs</text>
+<text x="380" y="330.0" class="key row" style="animation-delay:1.26s">NeuroSync</text>
+<text x="465" y="330.0" class="wrn row" style="animation-delay:1.26s">ADHD focus &amp; mood companion app (Expo / Firebase)</text>
+<text x="380" y="347.5" class="key row" style="animation-delay:1.33s">Spike</text>
+<text x="465" y="347.5" class="wrn row" style="animation-delay:1.33s">IoT smart ring BLE telemetry &amp; stress analyzer (Flutter)</text>
+<text x="380" y="365.0" class="key row" style="animation-delay:1.40s">Voxelle</text>
+<text x="465" y="365.0" class="wrn row" style="animation-delay:1.40s">Multimodal voice AI assistant with agentic tool calling</text>
+<text x="380" y="382.5" class="key row" style="animation-delay:1.47s">Oil-Burn</text>
+<text x="465" y="382.5" class="wrn row" style="animation-delay:1.47s">3D satellite thermal &amp; geospatial monitoring web app</text>
+<text x="380" y="410.0" class="sec row" style="animation-delay:1.54s">~/hobbies</text>
+<text x="380" y="427.5" class="key row" style="animation-delay:1.61s">Gaming</text>
+<text x="465" y="427.5" class="val row" style="animation-delay:1.61s">Optimizing cities &amp; surviving dystopian worlds</text>
+<text x="380" y="455.0" class="sec row" style="animation-delay:1.68s">~/reach</text>
+<text x="380" y="472.5" class="key row" style="animation-delay:1.75s">Web</text>
+<text x="465" y="472.5" class="acc row" style="animation-delay:1.75s">sujaya.me</text>
+<text x="380" y="490.0" class="key row" style="animation-delay:1.82s">HF</text>
+<text x="465" y="490.0" class="acc row" style="animation-delay:1.82s">huggingface.co/NIM-AI</text>
+<text x="380" y="507.5" class="key row" style="animation-delay:1.89s">LinkedIn</text>
+<text x="465" y="507.5" class="acc row" style="animation-delay:1.89s">linkedin.com/in/sujaya-nimneth-9280b4254/</text>
+<text x="30" y="596" class="row" style="animation-delay:2.06s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to AI/ML &amp; Full-Stack Software Engineering opportunities</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 15 Nov 2026, 12:30 IST</text>
 </svg>
